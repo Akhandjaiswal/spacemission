@@ -15,12 +15,6 @@ body {
     width: 150px;
 }
 
-/*
-Challenge:
-Add a blurred border around the <h1> using
-the text-shadow technique you just learned. Set
-the blur to 4px and the color to black.
-*/
 
 #title {
     text-shadow: 3px 2px 1px black;
